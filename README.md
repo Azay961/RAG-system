@@ -7,5 +7,5 @@ Using LangChain framework, build a RAG system that can utilize the power of LLM 
 
 # Step by Step rocess
 
-#Resources
+#Resources\n
 Paper link: https://arxiv.org/pdf/2404.07143.pdf
