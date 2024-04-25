@@ -27,4 +27,4 @@ This section involves integrating the RAG system with Streamlit for a user-frien
 - **Paper Link:** [Link to the "Leave No Context Behind" paper](https://arxiv.org/pdf/2404.07143.pdf)
 - **Demo Video:** [Demonstration of the RAG system in action](https://youtu.be/wkmtGRDXAIw)
 - **Google Colab Link:** [Google Colab notebook for Part 1 implementation](https://colab.research.google.com/drive/1pY_DlH8LJ9ugQ02hPeDCDnA-DG3p_RvE#scrollTo=pQUhnKhkrKWV)
-- **LinkedIn Profile:** [Profile of the project contributor](https://www.linkedin.com/in/chaudharyajay/)
+- **LinkedIn Profile:** [Ajay Chaudhary](https://www.linkedin.com/in/chaudharyajay/)
